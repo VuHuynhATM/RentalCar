@@ -19,7 +19,7 @@ import javax.servlet.http.HttpSession;
  * @author tuanv
  */
 public class VerifyController extends HttpServlet {
-    private static final String SUCCESS="shop.jsp";
+    private static final String SUCCESS="SearchController";
     private static final String ERROR="verify.jsp";
     /**
      * Processes requests for both HTTP <code>GET</code> and <code>POST</code>
